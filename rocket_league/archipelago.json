@@ -1,0 +1,5 @@
+{
+  "game": "Rocket League",
+  "version": 1,
+  "description": "Experimental LAN world: requires an external check sender and Rocket League mod adapter."
+}
